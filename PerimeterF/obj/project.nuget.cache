@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sSQhhFhX+alXNwNUk6V9VPqOSoj4JapvDChH2SqdLvx5HhIKSg9xCEy8pYOfBrOrkQd3LkbUxYWipwpEBjC8RA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cristian.cazan\\Documents\\Facultate\\PermiterF#\\PerimeterF\\PerimeterF.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cristian.cazan\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
